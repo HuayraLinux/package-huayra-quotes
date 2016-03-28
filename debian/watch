@@ -1,2 +1,2 @@
 version=3
-https://github.com/hugoruscitti/huayra-quotes/tags .*/(\d[\d\.]+)\.tar\.gz
+https://github.com/huayralinux/huayra-quotes/tags .*/(\d[\d\.]+)\.tar\.gz
